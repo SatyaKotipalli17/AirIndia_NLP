@@ -35,7 +35,7 @@ This project explores the transformation of Air India after its privatization us
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AlekhyaTentu/Air_India_NLP.git
+
 
 2. Explore the repository:
 - Review the research paper in the ResearchPaper/ folder for detailed insights.
